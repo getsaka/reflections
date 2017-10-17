@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+I should make a commit cause git doesn't automatically create one itself
+
+
